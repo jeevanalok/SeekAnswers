@@ -1,10 +1,7 @@
 # Seek Answers
 
-  _____                   _             _          __      _
- |_   _|__ _ __ _ __ ___ (_)_ __   __ _| |   ___  / _|    / \   _ __  _____      _____ _ __ ___ 
-   | |/ _ \ '__| '_ ` _ \| | '_ \ / _` | |  / _ \| |_    / _ \ | '_ \/ __\ \ /\ / / _ \ '__/ __|
-   | |  __/ |  | | | | | | | | | | (_| | | | (_) |  _|  / ___ \| | | \__ \\ V  V /  __/ |  \__ \
-   |_|\___|_|  |_| |_| |_|_|_| |_|\__,_|_|  \___/|_|   /_/   \_\_| |_|___/ \_/\_/ \___|_|  |___/
+
+![image](https://user-images.githubusercontent.com/40180496/226184689-26d28e4b-b138-41f2-a48f-2decc28fb307.png)
 
 ---
 ## Requirements
@@ -51,4 +48,6 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 
     $ npm install seekanswers  / npm install seekanswers -g (for global installation)
     $ npx i seekanswers
+## Get Started
 
+    $ askCosmos
