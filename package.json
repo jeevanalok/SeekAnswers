@@ -1,0 +1,21 @@
+{
+  "name": "seekanswers",
+  "version": "1.0.0",
+  "description": "get answers to your difficult questions",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "askCosmos":"./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "a struggling human",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "chalk-animation": "^2.0.3",
+    "figlet": "^1.5.2",
+    "ora": "^6.1.2"
+  }
+}
